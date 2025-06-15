@@ -15,7 +15,7 @@ This project gave me the opportunity to better understand how game loops work, h
 ## 🛠️ Technologies and Tools
 
 - **Programming Language**: C++
-- **IDE**: Visual Studio Code / Code::Blocks
+- **IDE**: Visual Studio Code 
 
 
 
