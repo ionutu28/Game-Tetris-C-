@@ -18,7 +18,5 @@ This project gave me the opportunity to better understand how game loops work, h
 - **IDE**: Visual Studio Code / Code::Blocks
 
 
----
 
-## 📁 Project Structure
 
